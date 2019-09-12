@@ -1,0 +1,22 @@
+//state 0 = A move right
+//state 1 = B move up
+//state 2 = C move left
+//state 3 = A move down
+//state 4 = B move right
+//state 5 = C move up
+//state 6 = A move left
+//state 7 = B move down
+//state 8 = c move right
+//state 9 = A move up
+//state 10 = B move left
+//state 11 = c move down
+
+//state variabl for the veritces
+//state variable for the direction of the motion
+
+//you can either use one set state variable (12) 
+//or use the two set state variables 
+
+//This will use one set of state variables
+
+//speed is 3 pixels per frame
